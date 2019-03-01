@@ -12,6 +12,6 @@ date: 2019-03-18 11:30-12:45
 
 *
 
-* Summary - collectin ideas fro upcoming events, e.g., hackathon
+* Summary - collection ideas fro upcoming events, e.g., hackathon
 
 
