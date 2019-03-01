@@ -1,4 +1,4 @@
-# Outline Proteome Informatics  
+# Outline Proteome Informatics - Session
 
 date: 2019-03-18 11:30-12:45
 
