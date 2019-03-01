@@ -1,15 +1,17 @@
-# Outline Proteome Informatics  - 2019-03-18 11:30
+# Outline Proteome Informatics  
+
+date: 2019-03-18 11:30-12:45
 
 * Introduction of every side 5min
 
 * Patrick: Overview of myProMS and associated workflows 15min
 
-* Christian: Analysing core4life QC using rawDiag 15min
+* Christian: Analysing core4life QC using [rawDiag](https://github.com/fgcz/rawDiag) 15min
 
 * Frank: A script writing scripts: towards a reproducible, transparent and personalized data analysis for proteomics 15min
 
 *
 
-*
+* Summary - collectin ideas fro upcoming events, e.g., hackathon
 
 
