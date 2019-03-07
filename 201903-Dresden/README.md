@@ -10,7 +10,7 @@ date: 2019-03-18 11:30-12:45
 
 * Frank: A script writing scripts: towards a reproducible, transparent and personalized data analysis for proteomics 15min
 
-*
+* Lena: Differential abundance analysis with limma including results reporting 15min
 
 * Summary - collection ideas fro upcoming events, e.g., hackathon
 
