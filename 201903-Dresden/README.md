@@ -2,7 +2,7 @@
 
 date: 2019-03-18 11:30-12:45
 
-* All: Self Introduction of every participant (5min)
+* All: Introductions (5min)
 
 * Patrick (Curie): Overview of [myProMS](https://doi.org/10.1002/pmic.200600784) and associated workflows (15min)
 
