@@ -29,11 +29,13 @@ R CMD build ProteomeQR
 R CMD INSTALL ProteomeQR_0.0.1.tar.gz 
 ```
 
-or direkt from github
+or direct from github
 ```{r}
+
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-    
+
+# wont build the vignettes
 BiocManager::install("coreforlife/c4lProteomics/ProteomeQR")  
 ```
 
