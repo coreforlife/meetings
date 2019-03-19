@@ -52,7 +52,10 @@ cd /scratch/MAXQUANT/WU186531/ \
   && mono /usr/local/MaxQuant/MaxQuant_1.6.2.3/MaxQuant/bin/MaxQuantCmd.exe WU186531.xml
 ```
 
-that version numbers rocks.
+Version numbers:
+
+|mono|5.16.0.179|
+|MaxQuant|1.6.2.3|
 
 
 input:
