@@ -15,3 +15,52 @@ date: 2019-03-18 11:30-12:45
 * Summary - collection ideas fro upcoming events, e.g., hackathon
 
 
+# Common Intrest 
+
+- share Rmd scripts (MaxQuant LFQ) and apply it on different data, e.g., embl TMT yeast.
+
+
+# Discussion Common Tools of Intrest 
+
+- https://github.com/bartongroup/Proteus
+
+- https://github.com/protcode/isob
+
+
+# Notes
+
+## rock MaxQuant on Linux
+
+
+increase max_map_count 
+
+```
+cpanse@fgcz-r-028:~ > cat /proc/sys/vm/max_map_count
+655350
+root@fgcz-r-028:~# echo "655300" >  /proc/sys/vm/max_map_count
+root@fgcz-r-028:~# cat /proc/sys/vm/max_map_count
+655300
+```
+
+run the job
+
+```{bash}
+docker run -it -v /scratch/MAXQUANT/WU186531/:/scratch/MAXQUANT/WU186531/  -v /usr/local/MaxQuant/:/usr/local/MaxQuant/ -v /srv/www/htdocs:/srv/www/htdocs --user 40482:10147  mono:5.16.0.179 bash
+
+# inside the docker instance
+cd /scratch/MAXQUANT/WU186531/ \
+  && mono /usr/local/MaxQuant/MaxQuant_1.6.2.3/MaxQuant/bin/MaxQuantCmd.exe WU186531.xml
+```
+
+that version numbers rocks.
+
+
+input:
+84 Q Exactive HF-X Orbitrap
+
+FASTA size: 434MB
+
+more details on the job configuration [WU185740](https://fgcz-bfabric.uzh.ch/bfabric/userlab/show-workunit.html?id=185740)
+
+runtime: 4 weeks
+memory: 256GB
