@@ -17,7 +17,8 @@ date: 2019-03-18 11:30-12:45
 
 # Common Intrest 
 
-- share Rmd scripts (MaxQuant LFQ) and apply it on different data, e.g., embl TMT yeast.
+- share running scripts Rmd scripts (MaxQuant LFQ) and apply it on different data, e.g., embl TMT yeast.
+(running means at least in a Docker enviroment)
 
 
 # Discussion Common Tools of Intrest 
