@@ -10,7 +10,7 @@ date: 2019-03-18 11:30-12:45
 
 * Frank (EMBL): A script writing scripts: towards a reproducible, transparent and personalized data analysis for proteomics (15min)
 
-* Christian (FGCZ): Analysing core4life QC data using [rawDiag](https://fgcz.github.io/rawDiag/) (15min)
+* Christian (FGCZ): Analysing core4life QC data using [rawDiag](https://fgcz.github.io/rawDiag/) (15min) [slides](https://drive.google.com/file/d/1iZFpUMYlxa37AZb18ajPD2sto3LMbH-D/view?usp=sharing)
 
 * Summary - collection ideas fro upcoming events, e.g., hackathon
 
@@ -54,6 +54,8 @@ cd /scratch/MAXQUANT/WU186531/ \
 
 Version numbers:
 
+|software|version|
+|----|----|
 |mono|5.16.0.179|
 |MaxQuant|1.6.2.3|
 
