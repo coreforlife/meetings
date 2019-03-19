@@ -28,6 +28,20 @@ https://github.com/coreforlife/c4lProteomics/tree/master/ProteomeQR
 R CMD build ProteomeQR
 R CMD INSTALL ProteomeQR_0.0.1.tar.gz 
 ```
+
+or direkt from github
+```{r}
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+    
+BiocManager::install("coreforlife/c4lProteomics/ProteomeQR")  
+```
+
+run R and type
+
+```{r}
+browseVignettes('ProteomeQR')
+```
 # Discussion Common Tools of Intrest 
 
 - https://github.com/bartongroup/Proteus
