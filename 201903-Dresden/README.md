@@ -85,9 +85,12 @@ Version numbers:
 
 
 input:
-84 Q Exactive HF-X Orbitrap
 
-FASTA size: 434MB
+- 84 Q Exactive HF-X Orbitrap
+
+- FASTA size: 434MB
+
+- [mqpar.xml](WU186531.xml)
 
 more details on the job configuration [WU185740](https://fgcz-bfabric.uzh.ch/bfabric/userlab/show-workunit.html?id=185740)
 
