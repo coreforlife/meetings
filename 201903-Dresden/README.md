@@ -60,7 +60,7 @@ increase max_map_count
 
 ```
 cpanse@fgcz-r-028:~ > cat /proc/sys/vm/max_map_count
-655350
+65535
 root@fgcz-r-028:~# echo "655300" >  /proc/sys/vm/max_map_count
 root@fgcz-r-028:~# cat /proc/sys/vm/max_map_count
 655300
