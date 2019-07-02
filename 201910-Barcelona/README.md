@@ -7,6 +7,7 @@ date: 2019-10-07  to 2019-10-09
 * status last tasks 
   - @temaia: automated report for the QC4L harmonization study 
   - @cpanse: c4l R package 
+  - @rolivella: QCloud API
 
 *  ...
 
