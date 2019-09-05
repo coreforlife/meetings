@@ -9,7 +9,7 @@ date: 2019-10-07  to 2019-10-09
   - @cpanse: c4l R package 
   - @rolivella: QCloud API
 
-*  MaxQuant live demo
+*  @??? MaxQuant live demo
 
 *  @temaia: update/demo on MSqRob software
 
