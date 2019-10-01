@@ -8,8 +8,9 @@ Computational Proteomics Sessions:
 
 * Small update/introduction from each node (5 min). 
 * Short presentations (10 min aprox.) regarding some specific topics like: 
-    * QCloud API (CRG). 
-    * C4L R package (FGCZ).
+    * QCloud API (@mserret). 
+    * C4L R package (@cpanse).
+    * PDF weekly reports (@anstaes). 
 * Discussion. 
 
 # 15-17h WG Session 4B: Bioinformatics C4L Parallel Session II
