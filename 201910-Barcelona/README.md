@@ -1,21 +1,21 @@
 # Program - Computational Proteomics Session
 
-date: 2019-10-07  to 2019-10-09
+Dates: from 2019-10-07 to 2019-10-09
 
-* All: Introductions (5min)
+Computational Proteomics Sessions: 
 
-* status last tasks 
-  - @temaia: automated report for the QC4L harmonization study 
-  - @cpanse: c4l R package 
-  - @rolivella: QCloud API
+# 12-13h WG Session 2B: Bioinformatics C4L Parallel Session I
 
-*  @??? MaxQuant live demo
+* Small update/introduction from each node (5 min). 
+* Short presentations (10 min aprox.) regarding some specific topics like: 
+    * QCloud API (@mserret). 
+    * C4L R package (@cpanse).
+    * PDF weekly reports (@anstaes). 
+* Discussion. 
 
-*  @temaia: update/demo on MSqRob software
+# 15-17h WG Session 4B: Bioinformatics C4L Parallel Session II
 
-* ...
-
-* @cpanse @rolivella: hands-on explore a potential integration of [rawDiag](https://github.com/fgcz/rawDiag) within the [QCloud](http://qcloud2.crg.eu).
-
-* ...
+* Discussion (follow up). 
+* Hands on: 
+    * @cpanse @rolivella: hands-on explore a potential integration of [rawDiag](https://github.com/fgcz/rawDiag) within the [QCloud](http://qcloud2.crg.eu).
 
