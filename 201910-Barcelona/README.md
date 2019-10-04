@@ -2,9 +2,10 @@
 
 Dates: from 2019-10-07 to 2019-10-09
 
+
 Computational Proteomics Sessions: 
 
-# 12-13h WG Session 2B: Bioinformatics C4L Parallel Session I
+# 12-13h WG Session 2B: Bioinformatics C4L Parallel Session I ("Barceloneta" Training Room)
 
 * Small update/introduction from each node (5 min). 
 * Short presentations (10 min aprox.) regarding some specific topics like: 
@@ -13,7 +14,7 @@ Computational Proteomics Sessions:
     * PDF weekly reports (@anstaes). 
 * Discussion. 
 
-# 15-17h WG Session 4B: Bioinformatics C4L Parallel Session II
+# 15-17h WG Session 4B: Bioinformatics C4L Parallel Session II ("Barceloneta" Training Room)
 
 * Discussion (follow up). 
 * Hands on: 
