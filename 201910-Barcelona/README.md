@@ -13,7 +13,7 @@ Computational Proteomics Sessions:
 
 # 14-17h WG Session 4B: Bioinformatics C4L Parallel Session II
 
-* On using [IsobarQuant](https://github.com/protcode/isob) and SpectroMine; Correlation using QC TMT (@fstein)
+* On using [IsobarQuant](https://github.com/protcode/isob) and SpectroMine; Correlation using QC TMT (@fstein) [slides](https://github.com/coreforlife/meetings/files/3697789/C4L_Barcelona_V1.pdf)
 * myProMS updates
 * QCloud API (@mserret). [docs](https://documenter.getpostman.com/view/8947947/SVn3qu8K?version=latest)
 * PDF weekly reports (@anstaes). 
