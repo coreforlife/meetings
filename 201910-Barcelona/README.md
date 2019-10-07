@@ -15,6 +15,7 @@ Computational Proteomics Sessions:
 # 14-17h WG Session 4B: Bioinformatics C4L Parallel Session II
 
 * On using [isobar](https://github.com/fbreitwieser/isobar) and SpectroMine; Correlation using QC TMT (@fstein)
+* myProMS updates
 * Discussion. 
 * Hands on: 
     * @cpanse @rolivella: hands-on explore a potential integration of [rawDiag](https://github.com/fgcz/rawDiag) within the [QCloud](http://qcloud2.crg.eu).
