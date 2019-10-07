@@ -11,11 +11,11 @@ Computational Proteomics Sessions:
     * QCloud API (@mserret). 
     * C4L R package (@cpanse).
     * PDF weekly reports (@anstaes). 
-* Discussion. 
 
 # 15-17h WG Session 4B: Bioinformatics C4L Parallel Session II
 
-* Discussion (follow up). 
+* On using [isobar](https://github.com/fbreitwieser/isobar) and SpectroMine; Correlation using QC TMT (@fstein)
+* Discussion. 
 * Hands on: 
     * @cpanse @rolivella: hands-on explore a potential integration of [rawDiag](https://github.com/fgcz/rawDiag) within the [QCloud](http://qcloud2.crg.eu).
 
