@@ -8,7 +8,7 @@ Computational Proteomics Sessions:
 
 * Small update/introduction from each node (5 min). 
 * Short presentations (10 min aprox.) regarding some specific topics like: 
-    * QCloud API (@mserret). 
+    * QCloud API (@mserret). [docs](https://documenter.getpostman.com/view/8947947/SVn3qu8K?version=latest)
     * C4L R package (@cpanse).
     * PDF weekly reports (@anstaes). 
 
