@@ -12,7 +12,7 @@ Computational Proteomics Sessions:
     * C4L R package (@cpanse).
     * PDF weekly reports (@anstaes). 
 
-# 15-17h WG Session 4B: Bioinformatics C4L Parallel Session II
+# 14-17h WG Session 4B: Bioinformatics C4L Parallel Session II
 
 * On using [isobar](https://github.com/fbreitwieser/isobar) and SpectroMine; Correlation using QC TMT (@fstein)
 * Discussion. 
