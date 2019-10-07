@@ -8,7 +8,7 @@ Computational Proteomics Sessions:
 
 * Small update/introduction from each node (5 min). 
 * Short presentations (10 min aprox.) regarding some specific topics like: 
-    * C4L R package (@cpanse).
+    * [C4L R package](https://github.com/coreforlife/c4lProteomics/tree/master/ProteomeQR) (@cpanse). 
   
 
 # 14-17h WG Session 4B: BioInf C4L Parallel Session II
