@@ -19,5 +19,5 @@ Computational Proteomics Sessions:
 * PDF weekly reports (@anstaes). 
 * Discussion. 
 * Hands on: 
-    * @cpanse @rolivella: hands-on explore a potential integration of [rawDiag](https://github.com/fgcz/rawDiag) within the [QCloud](http://qcloud2.crg.eu). [delivery](https://github.com/coreforlife/c4lProteomics/blob/master/RawFileReader-XIC-json).
+    * @cpanse @rolivella: hands-on explore a potential integration of [rawDiag](https://github.com/fgcz/rawDiag) within the [QCloud](http://qcloud2.crg.eu).  - [DELIVERY](https://github.com/coreforlife/c4lProteomics/blob/master/RawFileReader-XIC-json) code snippet.
 
