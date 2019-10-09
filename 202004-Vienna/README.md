@@ -2,8 +2,6 @@
 
 Dates: from 2020-04-22 to 2020-04-23
 
-Computational Proteomics Sessions: 
-
 ## Workpackage 1:
 
 * report [QCloud](http://qcloud2.crg.eu) - setup jsonify
