@@ -24,7 +24,7 @@ Computational Proteomics Sessions:
 
 
 ## actions for next meeting
-###CRG:
+### CRG:
 
 * Improve isotopologues extraction with XIC algorithm.
 * Publish QCloud C4L API to production server with accessible ports from outside the CRG.
@@ -33,7 +33,7 @@ Computational Proteomics Sessions:
 * Evaluate QCloud API annotations insertion.
 * Num. of proteins and peptides (and maybe also LVN Peptide Area) available on Telegram bot.
 
-###VIB:
+### VIB:
 
 * Use the QCloud C4L API to generate the weekly PDF report instead of CSV files.
 * Improve outliers management in the weekly PDF report (by using Boxplots, ...).
