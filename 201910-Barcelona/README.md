@@ -45,4 +45,6 @@ Computational Proteomics Sessions:
 * Make available with a link all past PDF reports. (VIB)
 * Check why the file lastreport.pdf is not updateing every week though the current PDF file is actually generated (i.e. c4l-hs-week-20190930-20191006_Report.pdf).
 
+### FGCZ:
+* provide two proposals for the micro hackathon
 
