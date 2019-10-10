@@ -31,16 +31,16 @@ Computational Proteomics Sessions:
 ## actions for [next meeting](https://github.com/coreforlife/meetings/tree/master/202004-Vienna)
 ### CRG:
 
-* Improve isotopologues extraction with XIC algorithm.
+* Improve isotopologues extraction with XIC algorithm. see also [#6](https://github.com/coreforlife/c4lProteomics/issues/6)
 * Publish QCloud C4L API to production server with accessible ports from outside the CRG.
-* Make R sample snippets for accessing QCloud2 API.  
+* Make R sample snippets for accessing QCloud2 API. [#8](https://github.com/coreforlife/c4lProteomics/issues/8)
 * Add to QCloud C4L Orbitrap Fusion Lumos 1 and 2 (from June) from the VIB.
 * Evaluate QCloud API annotations insertion.
 * Num. of proteins and peptides (and maybe also LVN Peptide Area) available on Telegram bot.
 
 ### VIB:
 
-* Use the QCloud C4L API to generate the weekly PDF report instead of CSV files.
+* Use the QCloud C4L API to generate the weekly PDF report instead of CSV files. [#8](https://github.com/coreforlife/c4lProteomics/issues/8)
 * Improve outliers management in the weekly PDF report (by using Boxplots, ...).
 * Make available with a link all past PDF reports. (VIB)
 * Check why the file lastreport.pdf is not updateing every week though the current PDF file is actually generated (i.e. c4l-hs-week-20190930-20191006_Report.pdf).
