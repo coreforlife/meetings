@@ -28,7 +28,7 @@ Computational Proteomics Sessions:
 
 
 
-## actions for next meeting
+## actions for [next meeting](https://github.com/coreforlife/meetings/tree/master/202004-Vienna)
 ### CRG:
 
 * Improve isotopologues extraction with XIC algorithm.
