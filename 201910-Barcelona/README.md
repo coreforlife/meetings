@@ -14,7 +14,7 @@ Computational Proteomics Sessions:
 ## 14-17h WG Session 4B: BioInf C4L Parallel Session II
 
 * On using [IsobarQuant](https://github.com/protcode/isob) and SpectroMine; Correlation using QC TMT (@fstein) [slides](https://github.com/coreforlife/meetings/files/3697789/C4L_Barcelona_V1.pdf)
-* myProMS updates
+* myProMS updates [slides](https://github.com/coreforlife/meetings/files/3720358/C4L_BioinfoCurie_20191007.pdf)
 * QCloud API (@mserret). [docs](https://documenter.getpostman.com/view/8947947/SVn3qu8K?version=latest),
 [slides1](https://github.com/coreforlife/meetings/files/3706916/C4L_BCN_2019_QCloud_C4L_API_MarcSerret.pdf),
 [slides2](https://github.com/coreforlife/meetings/files/3706917/C4L_BCN_2019_QCloud_RogerOlivella.pdf),
