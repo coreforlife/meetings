@@ -1,6 +1,6 @@
 # Program - Computational Proteomics Session
 
-Dates: from 2020-04-22 to 2020-04-23
+Dates: from 2020-04-20 to 2020-04-21
 
 ## Workpackage 1:
 
