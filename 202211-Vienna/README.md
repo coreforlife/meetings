@@ -10,9 +10,9 @@ Dates: from 2022-11-28 to 2020-11-29
 
  * general data processing
 
-##  interface fragpipe (Frank/Witold)
+## interface fragpipe (Frank/Witold)
 
-## qcloud software (Roger)
+## qcloud / qsample - software (Roger)
 
 ## TMT ???
 
