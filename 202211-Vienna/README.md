@@ -2,7 +2,7 @@
 
 Dates: from 2022-11-28 to 2020-11-29
 
-## joint paper outline (Frank)
+## IP4L - outline (Frank - 30 min)
 
 Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
@@ -12,7 +12,7 @@ Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
  * general data processing
 
-## FragPipeCommandeR - an R interface to headless FragPipe (Frank/Witold)
+## FragPipeCommandeR - an R interface to headless FragPipe (Frank/Witold - 20 min)
 
 ## qcloud / qsample - software (Roger)
 
