@@ -4,15 +4,25 @@ Dates: from 2022-11-28 to 2020-11-29
 
 ## joint paper outline (Frank)
 
+Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
+
 ## DIA (An)
  
  * QC
 
  * general data processing
 
-## interface fragpipe (Frank/Witold)
+## FragPipeCommandeR - an R interface to headless FragPipe (Frank/Witold)
 
 ## qcloud / qsample - software (Roger)
 
-## TMT ???
+## Software overview for different applications
+
+* TMT (SpectroMine, FragPipe, MaxQuant)
+
+* Label free (MaxQuant, Spectronaut, FragPipe)
+
+* SILAC
+
+* DIA
 
