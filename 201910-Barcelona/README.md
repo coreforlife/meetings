@@ -4,14 +4,16 @@ Dates: from 2019-10-07 to 2019-10-09
 
 Computational Proteomics Sessions: 
 
-## 12-13h WG Session 2B: BioInf C4L Parallel Session I
+
+# 12-13h WG Session 2B: Bioinformatics C4L Parallel Session I ("Barceloneta" Training Room)
+
 
 * Small update/introduction from each node (5 min). 
 * Short presentations (10 min aprox.) regarding some specific topics like: 
     * [C4L R package](https://github.com/coreforlife/c4lProteomics/tree/master/ProteomeQR) (@cpanse). 
   
 
-## 14-17h WG Session 4B: BioInf C4L Parallel Session II
+# 15-17h WG Session 4B: Bioinformatics C4L Parallel Session II ("Barceloneta" Training Room)
 
 * On using [IsobarQuant](https://github.com/protcode/isob) and SpectroMine; Correlation using QC TMT (@fstein) [slides](https://github.com/coreforlife/meetings/files/3697789/C4L_Barcelona_V1.pdf)
 * myProMS updates [slides](https://github.com/coreforlife/meetings/files/3720358/C4L_BioinfoCurie_20191007.pdf)
@@ -20,6 +22,7 @@ Computational Proteomics Sessions:
 [slides2](https://github.com/coreforlife/meetings/files/3706917/C4L_BCN_2019_QCloud_RogerOlivella.pdf),
 [slides3](https://github.com/coreforlife/meetings/files/3706918/C4L_BCN_2019_QCloud_general_API_MarcSerret.pdf),
 [slides4](https://github.com/coreforlife/meetings/files/3706919/C4L_BCN_2019_Telegram_MarcSerret.pdf)
+
 
 * PDF weekly reports (@anstaes). 
 * Discussion. 
@@ -48,3 +51,20 @@ Computational Proteomics Sessions:
 ### FGCZ:
 * provide two proposals for the micro hackathon
 
+# Action points:
+
+CRG: 
+
+* Improve isotopologues extraction with XIC algorithm.
+* Publish QCloud C4L API to production server with accessible ports from outside the CRG. 
+* Make simple R snippets for accessing QCloud2 API.  
+* Add to QCloud C4L Orbitrap Fusion Lumos 1 and 2 (from June) from the VIB. 
+* Evaluate QCloud API annotations insertion. 
+* Num. of proteins and peptides (and maybe also LVN Peptide Area) available on Telegram bot. 
+
+VIB: 
+
+* Use the QCloud C4L API to generate the weekly PDF report instead of CSV files.
+* Improve outliers management in the weekly PDF report (by using Boxplots, ...). 
+* Link pointing to all past PDF reports. (VIB)
+* Check why the file lastreport.pdf is not updated every week though the current PDF file is actually generated (i.e. c4l-hs-week-20190930-20191006_Report.pdf). 
