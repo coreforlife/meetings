@@ -28,6 +28,6 @@ Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
 
 
-# announcement
+# Announcements
 
 * [EuBIC-MS dev meeting 2023](https://eubic-ms.org/events/2023-developers-meeting/) (CP 1min)
