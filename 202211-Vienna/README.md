@@ -22,9 +22,11 @@ Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
 * Label free (MaxQuant, Spectronaut, FragPipe)
 
-* SILAC
+* XL-MS
 
-* DIA
+* Open searching 
+
+* ...
 
 
 
