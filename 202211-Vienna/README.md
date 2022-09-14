@@ -26,7 +26,7 @@ Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
 * Open searching 
 
-* ...
+* ....
 
 
 
