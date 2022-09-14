@@ -6,11 +6,11 @@ Dates: from 2022-11-28 to 2020-11-29
 
 Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
-## DIA (An)
+## DIA 
  
- * QC
+ * QCloud pipeline (Roger) (maybe move to general)
 
- * general data processing
+ * general data processing (maybe move to general)
 
 ## FragPipeCommandeR - an R interface to headless FragPipe (Frank/Witold - 20 min)
 
