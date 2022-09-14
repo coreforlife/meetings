@@ -14,9 +14,9 @@ Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
 ## FragPipeCommandeR - an R interface to headless FragPipe (Frank/Witold - 20 min)
 
-## qcloud / qsample - software (Roger)
+## QCloud / QSample - software (Roger)(maybe move to general?!)
 
-## Software overview for different applications
+## Software overview for different applications (maybe move to general)
 
 * TMT (SpectroMine, FragPipe, MaxQuant)
 
