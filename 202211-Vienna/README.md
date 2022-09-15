@@ -8,13 +8,13 @@ Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
 
 ## DIA 
  
- * QCloud pipeline (Roger) (maybe move to general)
+ * QSample DIA pipeline (Roger) (maybe move to general)
 
  * general data processing (maybe move to general)
 
 ## FragPipeCommandeR - an R interface to headless FragPipe (Frank/Witold - 20 min)
 
-## QCloud / QSample - software (Roger)(maybe move to general?!)
+## QCloud API and/or QSample other applications (Proteome LFQ, TMT, SILAC, etc.) (Roger)(maybe move to general?!)
 
 ## Software overview for different applications (maybe move to general)
 
