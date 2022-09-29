@@ -2,32 +2,30 @@
 
 Dates: from 2022-11-28 to 2020-11-29
 
-## IP4L - outline (Frank - 30 min)
+## Detailed program
 
-Link to outline: https://github.com/coreforlife/ip4l/tree/main/inst/manuscript
+### 28.: 8:30 - 10:30 Uhr
 
-## DIA 
- 
- * QSample DIA pipeline (Roger) (maybe move to general)
+Current challenges and fun: e.g. what was the most interesting and the most enoying piece of work you performed lately. Which bigger projects are you working on.
+What are potential future trends?
 
- * general data processing (maybe move to general)
+### 28.: 10:30 - 12 Uhr
 
-## FragPipeCommandeR - an R interface to headless FragPipe (Frank/Witold - 20 min)
+Potential topics to discuss:
+FragPipeCommandeR, IP4L, Qcloud API
 
-## QCloud API and/or QSample other applications (Proteome LFQ, TMT, SILAC, etc.) (Roger)(maybe move to general?!)
+### 28.: 16:00 - 17:00 Uhr
 
-## Software overview for different applications (maybe move to general)
+Software solutions for label-free, TMT, crosslinking, DIA, open search etc. 
+Which experience did you make with the different softwares. What is good, what is bad. 
+Who is doing what? Where is the know-how? Whom to ask if you have a question?
 
-* TMT (SpectroMine, FragPipe, MaxQuant)
+### 29.: 08:30 - 10:30 Uhr
 
-* Label free (MaxQuant, Spectronaut, FragPipe)
-
-* XL-MS
-
-* Open searching 
-
-* ....
-
+- Data processing with DIA (raw file processing)
+- Statistical analysis of DIA outputs (WEW?)
+- QC for DIA workflows
+- QSample DIA pipeline
 
 
 # Announcements
