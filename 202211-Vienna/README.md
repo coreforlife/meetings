@@ -8,6 +8,10 @@ Dates: from 2022-11-28 to 2020-11-29
 
 Current challenges and fun: e.g. what was the most interesting and the most enoying piece of work you performed lately. Which bigger projects are you working on.
 What are potential future trends?
+Appreciation of your work?
+Throughput overview?
+Utilisation/development effectiveness?
+Reuse of data in meta analysis?
 
 ### 28.: 10:30 - 12 Uhr
 
