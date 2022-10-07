@@ -1,6 +1,7 @@
 # Program - Computational Proteomics Session
 
 Dates: from 2022-11-28 to 2020-11-29
+Schedule draft: [Vienna_C4L_draft_220928.xlsx](https://github.com/coreforlife/meetings/files/9731497/Vienna_C4L_draft_220928.xlsx)
 
 ## Detailed program
 
