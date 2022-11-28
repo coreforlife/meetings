@@ -16,10 +16,13 @@ Throughput overview?
 Utilisation/development effectiveness?
 Reuse of data in meta analysis?
 
-### 28.: 10:30 - 12 Uhr
+### 28.: 3 - 4 pm
 
 Potential topics to discuss:
-FragPipeCommandeR, IP4L, Qcloud API
+- FragPipeCommandeR (10 min)
+- IP4L (10 min)
+- Qsample (10 min)
+- DDA benchmarking (FragPipe vs MaxQuant) (10min)
 
 ### 28.: 16:00 - 17:00 Uhr
 
