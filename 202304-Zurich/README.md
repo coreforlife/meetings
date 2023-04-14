@@ -9,6 +9,7 @@ Dates: from 2023-04-27 to 2023-04-28<br>
 
 all:
 - best of qc-plots plus caption (all)
+- best praxis analysis workflow part, e.g., normailzation, batch cleaning, ...
 - throughput workload (KPI)
 - benchmark (DIANN, Spectronaut, FragPipeDIA - TripleProteome) (WEW,JG)
 - dia-qc (VIB, TM?)
