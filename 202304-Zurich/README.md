@@ -15,7 +15,7 @@ all:
 - throughput workload (KPI)
   * Please give a small overview of how many projects your are dealing with (per month, per year). What is a project for you?
 - benchmark (DIANN, Spectronaut, FragPipeDIA - TripleProteome) (WEW,JG)
-- dia-qc (VIB, TM?)
+- ~~dia-qc (VIB, TM?)~~ **(there will be a DIAQC session at the 13.30-15.00 session on Thursday)**
   * Are there specific QC plots for DIA?
 
 ((all) session)
