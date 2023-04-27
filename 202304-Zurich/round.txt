@@ -41,7 +41,7 @@ CJ
 	- new searchengine-DAE applications, with fragpipe/MQ+prolfqua-SAINT
 
 Workload
-	- EMBL and DKFZ only have one bioinformatician doing data analysis.
+	- EMBL and DKFZ have one bioinformatician doing data analysis. THe others have 2 on average.
 
 Spectronaut/DIANN:
 	W 15min
