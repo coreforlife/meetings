@@ -30,7 +30,7 @@ G
 	- (15min)
 	
 
-CT
+C
 	- New group leader
 	- Renaming into Computational ...
 	- Ongoing efforts for imaging, single cell
