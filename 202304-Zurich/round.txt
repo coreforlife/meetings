@@ -18,12 +18,14 @@ T
 	- pipeline NterminOmics
 	- MSqRob
 	- LIMS core connect
+	- QC scripts (*)
 	
 M	
+	- moving towards DIA Spectronaut (v17)
 	- 
 	
 	
-	
+Spectronaut/DIANN ?:
 
 QC-plot session:
 
