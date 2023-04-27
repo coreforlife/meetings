@@ -89,7 +89,10 @@ G
 	
 W
 
+	QC plots for evaluating preprocessing steps (e.g. normalization before and after)
 	- density plots for proteins with different # of missing values (check if shift to the left)
+	- cv intergroup and overall
+	- 
 	
 special topics: 
 	- PTM 
