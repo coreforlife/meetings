@@ -53,6 +53,10 @@ Spectronaut/DIANN:
 
 QC-plot session:
 
+FS
+	- Includes QC plots for TMT and fractionation
+	- peptide nb and intensity along the analytical run
+
 special topics: 
 	- PTM 
 	- differnt stradegies
