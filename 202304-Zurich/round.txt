@@ -60,8 +60,20 @@ FS
 
 Q
 	- Based on PTXQC
+	- several dendrograms to show sample similarity (e.g. protein ID overlapping)
 	
 T
+M
+- PTM
+- missing values heatmap
+- stacked barplot with # modified residues
+
+
+Common plots:
+- sample intensity dists
+- sample correlation heatmaps
+- ID rates
+- PCAs
 
 
 
