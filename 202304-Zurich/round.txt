@@ -15,7 +15,7 @@ Q
 	
 T
 	- dev small script making annotation spectra
-	- pipeline NterminOmics
+	- pipeline N-terminomics
 	- MSqRob
 	- LIMS core connect
 	- QC scripts (*)
@@ -23,9 +23,18 @@ T
 M	
 	- moving towards DIA Spectronaut (v17)
 	- 
+G	
+	- pricing
+	- progress DIA (for high complex samples)
+	- Spectronaut IPs
+	- (15min)
 	
 	
-Spectronaut/DIANN ?:
+Spectronaut/DIANN:
+	W 15min
+	G 15min
+	discussion 20min
+	
 
 QC-plot session:
 
