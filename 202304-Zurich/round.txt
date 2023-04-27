@@ -30,7 +30,7 @@ G
 	- (15min)
 	
 
-C
+CJ
 	- New group leader
 	- Renaming into Computational ...
 	- Ongoing efforts for imaging, single cell
@@ -38,6 +38,7 @@ C
 	- Started DIA (DiaNN commandline) 
 	- Fragpipe-TMT
 	- html reporting
+	- new searchengine-DAE applications, with fragpipe/MQ+prolfqua-SAINT
 
 Spectronaut/DIANN:
 	W 15min
