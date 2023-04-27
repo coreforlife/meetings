@@ -19,6 +19,6 @@ special topics
 	- differnt stradegies
 	- normalization
 	- MSStats PTM adjusted fc
-	- 
+	- MSqRob PTM
 	
 
