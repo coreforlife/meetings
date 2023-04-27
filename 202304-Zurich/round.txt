@@ -11,14 +11,30 @@ Q
 	- package for classify Spectra using MSclassifR
 	- shiny app for comparing mod/unmod protein ...
 	(20min)
+	- 
+	
+T
+	- dev small script making annotation spectra
+	- pipeline NterminOmics
+	- MSqRob
+	- LIMS core connect
+	
+M	
+	- 
+	
 	
 	
 
-special topics 
+QC-plot session:
+
+special topics: 
 	- PTM 
 	- differnt stradegies
 	- normalization
 	- MSStats PTM adjusted fc
 	- MSqRob PTM
+	- 
 	
 
+tools:
+	- FragPipe Analyzer
