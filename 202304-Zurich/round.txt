@@ -53,9 +53,16 @@ Spectronaut/DIANN:
 
 QC-plot session:
 
+Common plots:
+	- sample intensity dists
+	- sample correlation heatmaps/dendrograms
+	- ID rates
+	- PCAs
+	
 FS
 	- Includes QC plots for TMT and fractionation
 	- peptide nb and intensity along the analytical run
+	- elution colored by hydrophobicity and pI
 	- they also have PTM experiment QC plots
 
 Q
@@ -64,28 +71,29 @@ Q
 	
 T
 M
-- PTM
-- missing values heatmap
-- stacked barplot with # modified residues
+	- PTM
+	- missing values heatmap
+	- stacked barplot with # modified residues
 
 
-Common plots:
-- sample intensity dists
-- sample correlation heatmaps
-- ID rates
-- PCAs
+G
 
-
-
+	script that parses PD result in pstgresql db
+	- Mass deviation boxplot
+	- MIssed cleavages
+	- ID rates
+	- charge state distributions
+	
+	
 special topics: 
 	- PTM 
 	- differnt stradegies
+	- protein group inference
 	- normalization
 	- MSStats PTM adjusted fc
 	- MSqRob PTM
-	- 
 	
-Interesting integrative new tool for downstream analysis
-- https://rdrr.io/github/ftwkoopmans/msdap/
 tools:
 	- FragPipe Analyzer
+	- Interesting integrative new tool for downstream analysis
+	https://rdrr.io/github/ftwkoopmans/msdap/
