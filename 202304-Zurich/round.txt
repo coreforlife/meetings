@@ -42,6 +42,7 @@ CJ
 
 Workload
 	- EMBL and DKFZ have one bioinformatician doing data analysis. THe others have 2 on average.
+	- FGCZ has highest throughput in terms of # projects and # pulications. Muc larger team as well.
 	- Projects/paper ratio discussed. 
 
 Spectronaut/DIANN:
