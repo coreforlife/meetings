@@ -1,8 +1,8 @@
 # 2023-04-27 0930
 
 FS
-	- fragpipe commander
-	- razor peptides
+	- Working on FragpipeCommandeR
+	- razor peptides in FragPipe.
 	- spectro mine (DDA/TMT); cmd option non-free;
 	- fragpipe >v19
 	- ppms for instrument booking
