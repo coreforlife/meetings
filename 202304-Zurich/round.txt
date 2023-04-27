@@ -42,6 +42,7 @@ CJ
 
 Workload
 	- EMBL and DKFZ have one bioinformatician doing data analysis. THe others have 2 on average.
+	- Projects/paper ratio discussed. 
 
 Spectronaut/DIANN:
 	W 15min
