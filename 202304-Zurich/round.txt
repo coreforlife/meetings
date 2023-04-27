@@ -54,7 +54,7 @@ Spectronaut/DIANN:
 QC-plot session:
 
 Common plots:
-	- sample intensity dists
+	- sample intensity dists (boxplot/density)
 	- sample correlation heatmaps/dendrograms
 	- ID rates
 	- PCAs
@@ -83,6 +83,7 @@ G
 	- MIssed cleavages
 	- ID rates
 	- charge state distributions
+	- score dists density plot for targets and decoys (>150 score)
 	
 	
 special topics: 
