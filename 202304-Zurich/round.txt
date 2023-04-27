@@ -6,4 +6,19 @@ FS
 	- spectro mine (DDA/TMT); cmd option non-free;
 	- fragpipe >v19
 	- ppms for instrument booking
+	- p: qc-plots; throughout (20min)
+Q
+	- package for classify Spectra using MSclassifR
+	- shiny app for comparing mod/unmod protein ...
+	(20min)
+	
+	
+
+special topics 
+	- PTM 
+	- differnt stradegies
+	- normalization
+	- MSStats PTM adjusted fc
+	- 
+	
 
