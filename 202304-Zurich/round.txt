@@ -11,7 +11,7 @@ Q
 	- package for classify Spectra using MSclassifR
 	- shiny app for comparing mod/unmod protein ...
 	(20min)
-	- https://jacky11.github.io/tuto_QC.html
+	- 
 	
 T
 	- dev small script making annotation spectra
@@ -58,6 +58,13 @@ FS
 	- peptide nb and intensity along the analytical run
 	- they also have PTM experiment QC plots
 
+Q
+	- Based on PTXQC
+	
+T
+
+
+
 special topics: 
 	- PTM 
 	- differnt stradegies
@@ -66,6 +73,7 @@ special topics:
 	- MSqRob PTM
 	- 
 	
-
+Interesting integrative new tool for downstream analysis
+- https://rdrr.io/github/ftwkoopmans/msdap/
 tools:
 	- FragPipe Analyzer
