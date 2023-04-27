@@ -84,6 +84,8 @@ G
 	- ID rates
 	- charge state distributions
 	- score dists density plot for targets and decoys (>150 score)
+	- # Psms vs RT 
+	- search space per PSM 
 	
 	
 special topics: 
