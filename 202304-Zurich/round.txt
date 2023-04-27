@@ -11,7 +11,7 @@ Q
 	- package for classify Spectra using MSclassifR
 	- shiny app for comparing mod/unmod protein ...
 	(20min)
-	- 
+	- https://jacky11.github.io/tuto_QC.html
 	
 T
 	- dev small script making annotation spectra
