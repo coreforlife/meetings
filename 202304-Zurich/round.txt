@@ -29,7 +29,16 @@ G
 	- Spectronaut IPs
 	- (15min)
 	
-	
+
+CT
+	- New group leader
+	- Renaming into Computational ...
+	- Ongoing efforts for imaging, single cell
+	- New building 
+	- Started DIA (DiaNN commandline) 
+	- Fragpipe-TMT
+	- html reporting
+
 Spectronaut/DIANN:
 	W 15min
 	G 15min
