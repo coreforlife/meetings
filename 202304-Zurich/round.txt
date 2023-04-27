@@ -87,6 +87,9 @@ G
 	- # Psms vs RT 
 	- search space per PSM 
 	
+W
+
+	- density plots for proteins with different # of missing values (check if shift to the left)
 	
 special topics: 
 	- PTM 
