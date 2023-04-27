@@ -40,6 +40,9 @@ CJ
 	- html reporting
 	- new searchengine-DAE applications, with fragpipe/MQ+prolfqua-SAINT
 
+Workload
+	- EMBL and DKFZ only have one bioinformatician doing data analysis.
+
 Spectronaut/DIANN:
 	W 15min
 	G 15min
