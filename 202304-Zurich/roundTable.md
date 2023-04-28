@@ -97,7 +97,6 @@ QC plots for evaluating preprocessing steps (e.g. normalization before and after
 	
 # special topics: 
 - PTM 
-- differnt stradegies
 - protein group inference
 - normalization
 - MSStats PTM adjusted fc
@@ -106,7 +105,6 @@ QC plots for evaluating preprocessing steps (e.g. normalization before and after
 ## best praxis
 - [http://www.ensembl.org/Homo_sapiens/Info/Index](http://www.ensembl.org/Homo_sapiens/Info/Index) if you do [DR]NA and proteomics projects.
 
-	
 # tools:
 - FragPipe Analyzer
 - Interesting integrative new tool for downstream analysis
