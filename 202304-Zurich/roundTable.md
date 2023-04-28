@@ -8,7 +8,7 @@
 - ppms for instrument booking
 - p: qc-plots; throughout (20min)
 ## Q
-- package for classify Spectra using [MSclassifR](https://CRAN.R-project.org/package=MSclassifR)
+- package for classify Spectra using [MSclassifR](https://CRAN.R-project.org/package=MSclassifR) [preprint](https://www.biorxiv.org/content/10.1101/2022.03.14.484252v1)
 - shiny app for comparing mod/unmod protein ...
 (20min)
 
