@@ -8,7 +8,7 @@ FS
 	- ppms for instrument booking
 	- p: qc-plots; throughout (20min)
 Q
-	- package for classify Spectra using MSclassifR
+	- package for classify Spectra using [MSclassifR](https://CRAN.R-project.org/package=MSclassifR)
 	- shiny app for comparing mod/unmod protein ...
 	(20min)
 	- 
@@ -19,8 +19,7 @@ T
 	- MSqRob
 	- LIMS core connect
 	- QC scripts (*)
-	
-M	
+M
 	- moving towards DIA Spectronaut (v17)
 	- 
 G	
