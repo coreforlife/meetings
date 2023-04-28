@@ -109,3 +109,9 @@ QC plots for evaluating preprocessing steps (e.g. normalization before and after
 - FragPipe Analyzer
 - Interesting integrative new tool for downstream analysis
 https://rdrr.io/github/ftwkoopmans/msdap/
+
+
+# presentations
+- W benchmarking DIANN FragPipe using TripleProteome
+- G benchmarking DIANN Spectronaut using HUMAN YEAST
+- Q [MSclassifR](https://CRAN.R-project.org/package=MSclassifR) [preprint](https://www.biorxiv.org/content/10.1101/2022.03.14.484252v1)
