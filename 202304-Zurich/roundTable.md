@@ -102,9 +102,12 @@ QC plots for evaluating preprocessing steps (e.g. normalization before and after
 - normalization
 - MSStats PTM adjusted fc
 - MSqRob PTM
+
+## best praxis
+- [http://www.ensembl.org/Homo_sapiens/Info/Index](http://www.ensembl.org/Homo_sapiens/Info/Index) if you do [DR]NA and proteomics projects.
+
 	
 # tools:
 - FragPipe Analyzer
 - Interesting integrative new tool for downstream analysis
 https://rdrr.io/github/ftwkoopmans/msdap/
-- [http://www.ensembl.org/Homo_sapiens/Info/Index](http://www.ensembl.org/Homo_sapiens/Info/Index)
