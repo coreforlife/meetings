@@ -88,7 +88,12 @@ QC plots for evaluating preprocessing steps (e.g. normalization before and after
 - density plots for proteins with different # of missing values (check if shift to the left)
 - cv intergroup and overall
 - iRT 
-- 
+
+see also
+[QC_output_Heidelberg.pdf](QC_output_Heidelberg.pdf)
+[fgcz_MQ_QC_report-1.pdf](fgcz_MQ_QC_report-1.pdf),
+[qc.pdf](qc.pdf)
+
 	
 # special topics: 
 - PTM 
