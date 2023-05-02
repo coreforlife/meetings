@@ -25,8 +25,8 @@
 ## G	
 - pricing
 - progress DIA (for high complex samples)
-- Spectronaut IPs
-- (15min)
+- Spectronaut for IPs?
+- improve Spectronaut accuracy (15min pres)
 
 ## CJ
 - New group leader
@@ -90,9 +90,10 @@ QC plots for evaluating preprocessing steps (e.g. normalization before and after
 - iRT 
 
 ## see also
-[QC_output_Heidelberg.pdf](QC_output_Heidelberg.pdf)
-[fgcz_MQ_QC_report-1.pdf](fgcz_MQ_QC_report-1.pdf),
-[qc.pdf](qc.pdf)
+[QC_output_Heidelberg.pdf](QC_output_Heidelberg.pdf), 
+[fgcz_MQ_QC_report-1.pdf](fgcz_MQ_QC_report-1.pdf), 
+[qc.pdf](qc.pdf), 
+[IMP_VBC_human_yeast_incQC.xlsm](IMP_VBC_human_yeast_incQC.xlsm)
 
 	
 # special topics: 
