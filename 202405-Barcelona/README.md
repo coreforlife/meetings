@@ -16,4 +16,6 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 
 
 ### FGCZ by @cpanse
-* proteoBench 
+* proteoBench for C4L Challenge Projects - 2nd call?
+* update compMSI @fgcz
+* ...
