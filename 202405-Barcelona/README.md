@@ -18,6 +18,7 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 ### FGCZ by @cpanse
 * proteoBench for C4L Challenge Projects - 2nd call?
 * update compMSI @fgcz
+* [![SIB in-silico talk](https://img.youtube.com/vi/acDiXq2xbOw/1.jpg)](https://www.youtube.com/watch?v=acDiXq2xbOw)
 * ...
 
 ### PCF by @fstein
