@@ -17,7 +17,7 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 
 ### FGCZ by @cpanse
 * [![SIB in-silico talk](https://img.youtube.com/vi/acDiXq2xbOw/1.jpg)](https://www.youtube.com/watch?v=acDiXq2xbOw)
-* [proteoBench for C4L Challenge](http://fgcz-ms.uzh.ch/~cpanse/202403_C4LChallengeProject-proteomics-proteoBench.pdf)  - 2nd call!
+* [proteoBench for C4L Challenge](http://fgcz-ms.uzh.ch/~cpanse/202403_C4LChallengeProject-proteomics-proteoBench.pdf)  - 2nd call! - kickoff meeting?
 * update compMSI @fgcz
 * https://bioconductor.org/packages/rawDiag/ version 0.99.31 with shiny module
 * http://ib2024.ch 
