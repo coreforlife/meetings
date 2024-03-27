@@ -24,3 +24,10 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 
 ### PCF by @fstein
 * ...
+
+### DKFZ by Martin
+* Is anyone interested in sharing  and discussing Spectronaut settings?
+* Has someone used missRanger, the fast version of missforest and knows if they yield equivalent results?
+https://cran.r-project.org/web/packages/missRanger/vignettes/missRanger.html
+
+
