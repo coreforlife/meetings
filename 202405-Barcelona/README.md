@@ -20,7 +20,8 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 * http://ib2024.ch 
 
 ### PCF by @fstein
-* ...
+* Thoughts on DIA-NN and Fragpipe/DIA-NN
+* News on FragPipeCommandeR
 
 ### DKFZ by Martin
 * Is anyone interested in sharing  and discussing Spectronaut settings?
