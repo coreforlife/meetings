@@ -24,9 +24,9 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 * News on FragPipeCommandeR
 
 ### DKFZ by Martin
-* Is anyone interested in sharing  and discussing Spectronaut settings?
+* Is anyone interested in sharing and discussing Spectronaut settings?
 * Has someone used missRanger, the fast version of missforest and knows if they yield equivalent results?
 https://cran.r-project.org/web/packages/missRanger/vignettes/missRanger.html
 * AlphaPept v0.5.0 on Linux cluster first insights (open source makes it possible)
-
+* Analysis optimization with HYE and fade-in fade-out, additional thoughts
 
