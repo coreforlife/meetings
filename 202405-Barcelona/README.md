@@ -20,7 +20,9 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 * http://ib2024.ch 
 
 ### PCF by @fstein
-* Thoughts on DIA-NN and Fragpipe/DIA-NN
+* Discussion about DIA-NN and Fragpipe/DIA-NN
+* Discussion about best-practice QC for DIA data
+* Comparison of TMT and DIA on same samples
 * News on FragPipeCommandeR
 
 ### DKFZ by Martin
