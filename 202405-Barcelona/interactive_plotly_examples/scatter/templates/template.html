@@ -1,0 +1,225 @@
+<head>
+	<meta charset="utf-8">
+	<!-- Load plotly.js into the DOM -->
+	<!-- Download most recent at:  'https://cdn.plot.ly/plotly-latest.min.js' -->
+	<script src='lib/plotly_v1.54.1.min.js'></script>
+</head>
+<style>
+ /* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline;
+  margin-left: 5px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  height: 24px;
+  width: 44px;
+  left: 0;
+  right: 0;
+  background-color: #ccc;
+  box-shadow: 0 0 5px #000;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #008CBA;
+}
+
+input:hover + .slider {
+  box-shadow: 0 0 5px #0ff56a;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px);
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+button:hover {
+	box-shadow: 0 0 5px #0ff56a;
+}
+
+/*Radio buttons*/
+input[type=radio] {
+		display:none;
+	}
+	input[type=radio]:hover + label{
+	  box-shadow: 0 0 5px #0ff56a;
+	}
+	input[type=radio] + label {
+		display:inline-block;
+		margin:-2px;
+		padding: 2px 12px;
+		margin-bottom: 0;
+		font-size: 14px;
+		line-height: 20px;
+		color: #333;
+		text-align: center;
+		text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+		vertical-align: middle;
+		cursor: pointer;
+		background-color: #e0e0e0;
+		background-image: -moz-linear-gradient(top,#fff,#e6e6e6);
+		background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));
+		background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);
+		background-image: -o-linear-gradient(top,#fff,#e6e6e6);
+		background-image: linear-gradient(to bottom,#fff,#e6e6e6);
+		background-repeat: repeat-x;
+		border: 1px solid #ccc;
+		border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+		border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+		border-bottom-color: #b3b3b3;
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0);
+		filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+		-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+		-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+		box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+	}
+	
+	input[type=radio]:checked + label {
+		background-image: none;
+		outline: 0;
+		-webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+		-moz-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+		box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+		background-color:#008CBA;
+		color: white;
+		text-shadow: 0 1px 1px rgba(100,100,100,0.75);
+	}
+	input[type=radio]:disabled + label {
+		background: #dddddd;
+		color: #bbb;
+		pointer-events: none;
+	}
+
+</style>
+<body>
+	<h2>
+		We are happy to receive feedback on our new interactive scatter plot.
+	</h2>
+	<div id="selectIntensity">
+		<input type="radio" id="sel_lfq" name="intSelect" value="lfq" onClick="getDropDownList(this.id)">
+		<label for="sel_lfq" >LFQ</label>
+		<input type="radio" id="sel_ibaq" name="intSelect"value="ibaq" onClick="getDropDownList(this.id)">
+		<label for="sel_ibaq" >iBAQ</label>
+		<input type="radio" id="sel_raw_int" name="intSelect" value="rawInt" onClick="getDropDownList(this.id)">
+		<label for="sel_raw_int">Intensity</label>
+		<input type="radio" id="sel_phos_int" name="intSelect" value="phosInt" onClick="getDropDownList(this.id)">
+		<label for="sel_phos_int">Phospho</label>
+		<input type="radio" id="sel_ubiq_int" name="intSelect" value="ubiqInt" onClick="getDropDownList(this.id)">
+		<label for="sel_ubiq_int">Ubiquitination</label>	
+	</div>
+	<div id="sel_&_plot">
+		<select id="sel-sample-x">
+			<option disabled selected value> -- select sample for x-- </option>
+		</select>
+		<select id="sel-sample-y">
+			<option disabled selected value> -- select sample for y-- </option>
+		</select>
+		<button id="doPlot" type="button"
+			style="
+				background-color: #008CBA;
+				border-color: #008CBA;
+				color: white;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 16px;
+				cursor: pointer;
+				"
+			>Plot
+			<!-- Icon "Arrow repeat" from https://icons.getbootstrap.com/icons/arrow-repeat/ -->
+			<svg class="bi bi-arrow-repeat" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" d="M2.854 7.146a.5.5 0 0 0-.708 0l-2 2a.5.5 0 1 0 .708.708L2.5 8.207l1.646 1.647a.5.5 0 0 0 .708-.708l-2-2zm13-1a.5.5 0 0 0-.708 0L13.5 7.793l-1.646-1.647a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0 0-.708z"/>
+				<path fill-rule="evenodd" d="M8 3a4.995 4.995 0 0 0-4.192 2.273.5.5 0 0 1-.837-.546A6 6 0 0 1 14 8a.5.5 0 0 1-1.001 0 5 5 0 0 0-5-5zM2.5 7.5A.5.5 0 0 1 3 8a5 5 0 0 0 9.192 2.727.5.5 0 1 1 .837.546A6 6 0 0 1 2 8a.5.5 0 0 1 .501-.5z"/>
+			</svg>
+		</button>
+		<button id="addSample" type="button">
+			Add
+		</button>
+	</div>
+	<br>
+	<br>
+	<div id="showNamesDiv">
+		<input type="radio" id="labelNo" name="labelSel" value="none" checked="checked">
+		<label for="labelNo"> No Labels</label>
+		<input type="radio" id="lableProtein" name="labelSel" value="prot">
+		<label for="lableProtein"> Protein Accessions</label>
+		<input type="radio" id="labelGene" name="labelSel" value="gene">
+		<label for="labelGene"> Gene Names</label>
+	</div>
+	<div id="showNotInAllDiv">
+		<input type="checkbox" id="showNotInBoth" name="showNotInAll" checked="checked">
+		<label for="showNotInBoth"> Show proteins not detected in both selected samples</label>
+		<br>
+		<input type="checkbox" id="showOnlyInX" name="showNotInAll" checked="checked">
+		<label for="showOnlyInX"> Show only quantified in x-axis sample</label>
+		<br>
+		<input type="checkbox" id="showOnlyInY" name="showNotInAll" checked="checked">
+		<label for="showOnlyInY"> Show only quantified in y-axis sample</label>
+	</div>
+	<div id="setThresholdDiv">
+		<label>
+			Fold change threshold: 
+			<input type="number" value="2" id="normThresh">
+		</label>
+		<label>
+			⇄ log2
+			<input type="number" id="log2Thresh">
+		</label>
+	</div>
+	<div style= "padding-top: 5px">
+		<input type="text" id="searchInput" placeholder="Search..">
+	  	<button id="executeSearch">Search
+	  		<!-- Icon "Search" from https://icons.getbootstrap.com/icons/search/ -->
+	  		<svg class="bi bi-search" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"/>
+				<path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>
+			</svg>
+	  	</button>
+	  	<!-- Rounded switch -->
+		<label class="switch">
+				<input type="checkbox" id="useGl">
+				<span class="slider round"></span>
+		</label>
+		<label style="margin-left: 44px;"> Enable higher plot performance (will disable search functionality and might cause display artifacts)</label>
+	</div>
+	<br>
+	<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+	<!-- Load plot_logic.js -->
+	<script src='lib/project_data.js'></script>
+	<script src='lib/plot_logic.js'></script>
+</body>

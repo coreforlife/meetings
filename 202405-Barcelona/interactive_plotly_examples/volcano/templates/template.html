@@ -1,0 +1,56 @@
+<head>
+	<meta charset="utf-8">
+	<!-- Load plotly.js into the DOM -->
+	<!-- Download most recent at:  'https://cdn.plot.ly/plotly-latest.min.js' -->
+	<script>
+		/*$plotly_code*/
+	</script>
+</head>
+
+<body>
+	<select id="sel-contrast">
+		<option disabled selected value> -- select contrast -- </option>
+	</select>
+	<button id="doPlot" type="button"
+		style="
+			background-color: #008CBA;
+			border-color: #008CBA;
+			color: white;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			cursor: pointer;
+			"
+		>Plot
+		<!-- Icon "Arrow repeat" from https://icons.getbootstrap.com/icons/arrow-repeat/ -->
+		<svg class="bi bi-arrow-repeat" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+			<path fill-rule="evenodd" d="M2.854 7.146a.5.5 0 0 0-.708 0l-2 2a.5.5 0 1 0 .708.708L2.5 8.207l1.646 1.647a.5.5 0 0 0 .708-.708l-2-2zm13-1a.5.5 0 0 0-.708 0L13.5 7.793l-1.646-1.647a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0 0-.708z"/>
+			<path fill-rule="evenodd" d="M8 3a4.995 4.995 0 0 0-4.192 2.273.5.5 0 0 1-.837-.546A6 6 0 0 1 14 8a.5.5 0 0 1-1.001 0 5 5 0 0 0-5-5zM2.5 7.5A.5.5 0 0 1 3 8a5 5 0 0 0 9.192 2.727.5.5 0 1 1 .837.546A6 6 0 0 1 2 8a.5.5 0 0 1 .501-.5z"/>
+		</svg>
+	</button>
+	<div id="showNamesDiv">
+  		<label><input type="checkbox" id="showChangedNames" name="showNames" value="show">Show names</label>
+  		<div id="pValSelection">
+  			<label><input type="radio" id="pVal" name="pVal" value="pVal"> plain p-values</label>
+  			<label><input type="radio" id="adjPVal" name="pVal" value="adjPVal" checked="checked"> FDR adjusted p-values</label>
+  		</div>
+	</div>
+	<br>
+	<input type="text" id="searchInput" placeholder="Search..">
+  	<button id="hoverbutton">Search
+  		<!-- Icon "Search" from https://icons.getbootstrap.com/icons/search/ -->
+  		<svg class="bi bi-search" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+			<path fill-rule="evenodd" d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"/>
+			<path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>
+		</svg>
+  	</button>
+	<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+	<!-- Load plot_logic.js -->
+	<script>
+		/*$project_data*/
+	</script>
+	<script>
+		/*$plot_logic*/
+	</script>
+</body>
