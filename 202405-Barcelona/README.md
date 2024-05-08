@@ -20,12 +20,12 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 * http://ib2024.ch 
 
 ### PCF by @fstein
-* Discussion about DIA-NN and Fragpipe/DIA-NN
-* Discussion about best-practice QC for DIA data
 * Comparison of TMT and DIA on same samples
 * News on FragPipeCommandeR
 
 #### Discussion points
+* Best practice: DIA-NN vs Fragpipe DIA-NN
+* Best practice: QC for DIA data
 * Workflow management systems
 * Automated methods and description texts for customers
 
