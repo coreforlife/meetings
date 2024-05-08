@@ -22,6 +22,7 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 ### PCF by @fstein
 * Comparison of TMT and DIA on same samples
 * News on FragPipeCommandeR
+* Comparison of different statistical decisions
 
 #### Discussion points
 * Best practice: DIA-NN vs Fragpipe DIA-NN
