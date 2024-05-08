@@ -25,6 +25,10 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 * Comparison of TMT and DIA on same samples
 * News on FragPipeCommandeR
 
+#### Discussion points
+* Workflow management systems
+* Automated methods and description texts for customers
+
 ### DKFZ by Martin
 * Is anyone interested in sharing and discussing Spectronaut settings?
 * Has someone used missRanger, the fast version of missforest and knows if they yield equivalent results?
