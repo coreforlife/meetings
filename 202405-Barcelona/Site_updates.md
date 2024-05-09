@@ -31,3 +31,9 @@ i.	Purchased new server (1TB RAM,192 CPUs (4x 48-Core processor))
  3. missRanger can replace missForest?
  4. AlphaPept on Linux as QC
  5. Optimization HYE, fade-in fade-out, thoughts for future benchmarking
+
+EMBL Heidelberg
+* Comparison of TMT and DIA aquisition on the same sample
+* Comparison of DIA-NN with FragPipe-DIA-NN analysis (FragPipe gives lower nuber of IDs)
+* Creation of filtered DIA-NN outputs from report files and creation of simple QC plots
+* Comparison of different data processing steps and their influence on differential abundance analysis (batch-correction, normalization), no real effect
