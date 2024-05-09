@@ -19,15 +19,17 @@ Dates: from 2025-05-08 to 2024-05-10<br>
    * Test data: https://github.com/nf-core/test-datasets/tree/modules/data/proteomics.  
 
 ### FGCZ by @cpanse
+
+[![SIB in-silico talk](https://img.youtube.com/vi/acDiXq2xbOw/1.jpg)](https://www.youtube.com/watch?v=acDiXq2xbOw)
+
 * R code snippets / news:
-** [![SIB in-silico talk](https://img.youtube.com/vi/acDiXq2xbOw/1.jpg)](https://www.youtube.com/watch?v=acDiXq2xbOw)
-** [proteoBench for C4L Challenge](http://fgcz-ms.uzh.ch/~cpanse/202403_C4LChallengeProject-proteomics-proteoBench.pdf)  - 2nd call! - kickoff meeting?
 **koinar [#3392](https://github.com/Bioconductor/Contributions/issues/3392)
 **[https://bioconductor.org/packages/rawDiag/](https://bioconductor.org/packages/rawDiag/)
 * update compMSI @fgcz
 * https://bioconductor.org/packages/rawDiag/ version 0.99.31 with shiny module
 * [bfabricPy](https://github.com/fgcz/bfabricPy)
-* http://ib2024.ch 
+* http://ib2024.ch
+
 
 ### PCF by @fstein
 * Comparison of TMT and DIA on same samples
@@ -51,4 +53,5 @@ https://cran.r-project.org/web/packages/missRanger/vignettes/missRanger.html
 * Observations from DIA analysis in Spectronaut
 
 # Aftermath 
+* [proteoBench for C4L Challenge](http://fgcz-ms.uzh.ch/~cpanse/202403_C4LChallengeProject-proteomics-proteoBench.pdf)  - 2nd call! - kickoff meeting
 * *NextFlow* or SnakeMake?
