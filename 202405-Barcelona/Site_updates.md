@@ -40,9 +40,9 @@ EMBL Heidelberg
 
 IMP
 - expansion of excel exporter (MS2Go) for DIA (Spectronaut)
-	   using msReport python package from MPL
+	+ using msReport python package from MPL
 - comparisons of DDA and DIA results (regulated vs regulated, fold change/significance scatter)
-    + ground truth data sets
+	+ ground truth data sets
 - universal function for PTM TMT + proteome results processing
 - archiving data to azure cold storage
 
