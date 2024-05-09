@@ -24,7 +24,5 @@ a.	Currently working on a VM (QSample webserver + atlas data analysis pipeline)
 a.	Testing on computer clusters (university, institute)
 i.	Purchased new server (1TB RAM,192 CPUs (4x 48-Core processor))
 
-Interested in discussing
--	Fragpipe/msfragger CLI, protein group inference tools, managing environments in R. 
 
  
