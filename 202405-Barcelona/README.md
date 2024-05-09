@@ -53,7 +53,6 @@ https://cran.r-project.org/web/packages/missRanger/vignettes/missRanger.html
 * Observations from DIA analysis in Spectronaut
 
 # Aftermath 
-* [proteoBench for C4L Challenge](http://fgcz-ms.uzh.ch/~cpanse/202403_C4LChallengeProject-proteomics-proteoBench.pdf)  - 2nd call! - kickoff meeting
 * *NextFlow* or SnakeMake?
 * msconvert docker option
 ```
@@ -61,3 +60,5 @@ chambm/pwiz-skyline-i-agree-to-the-vendor-licenses wine msconvert
       --mzML --64 --zlib --filter "peakPicking vendor msLevel=1-"
 ```
 * Qsample NF workflow
+
+* [proteoBench for C4L Challenge](http://fgcz-ms.uzh.ch/~cpanse/202403_C4LChallengeProject-proteomics-proteoBench.pdf)  - 2nd call! - kickoff meeting
