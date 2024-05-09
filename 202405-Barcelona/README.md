@@ -61,4 +61,4 @@ chambm/pwiz-skyline-i-agree-to-the-vendor-licenses wine msconvert
 ```
 * Qsample NF workflow
 
-* [proteoBench for C4L Challenge](http://fgcz-ms.uzh.ch/~cpanse/202403_C4LChallengeProject-proteomics-proteoBench.pdf)  - 2nd call! - kickoff meeting
+* proteoBench for C4L Challenge - 2nd call! - kickoff meeting
