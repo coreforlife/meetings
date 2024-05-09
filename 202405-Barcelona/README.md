@@ -8,9 +8,15 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 
 ### CRG by @rolivella
 
-* New `atlas` pipeline written in Nextflow for both QCloud and QSample. New optimizations and algorithms. New nucleosides quality control or QCN1. Improve documentation: Teresa and Roger. 
-* Rawstream project: a structured set of scripts written in bash to send DIA-NN process to a cluster for hundreds of RAW files. Here we can also discuss a similar joint project from VIB and FGCZ. 
-* Case study: [Globus upload to PRIDE](https://www.ebi.ac.uk/pride/markdownpage/globus) for the C4L harmonization study (4.6 TB). Here we can also discuss/share regular uploads issues (ports, protocols, etc.). 
+* Mention: QSample C4L Challenge project presentation. 
+* New `atlas` pipeline written in Nextflow for both QCloud and QSample. New optimizations and algorithms. New nucleosides quality control or QCN1. 
+* Rawstream project: a structured set of scripts written in bash to send DIA-NN process to a cluster for hundreds of RAW files. Here we can also discuss a similar joint project from VIB and FGCZ.
+* Case study: [Globus upload to PRIDE](https://www.ebi.ac.uk/pride/markdownpage/globus) for the C4L harmonization study (4.6 TB).
+* nf-core modules development:
+   * https://nf-co.re/
+   * Adapt this local to nf-core public: https://github.com/nf-core/quantms/tree/master/modules/local
+   * Module already done: https://github.com/nf-core/modules/tree/master/modules/nf-core/thermorawfileparser  
+   * Test data: https://github.com/nf-core/test-datasets/tree/modules/data/proteomics.  
 
 ### FGCZ by @cpanse
 * [![SIB in-silico talk](https://img.youtube.com/vi/acDiXq2xbOw/1.jpg)](https://www.youtube.com/watch?v=acDiXq2xbOw)
