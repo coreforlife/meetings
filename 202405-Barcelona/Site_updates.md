@@ -1,28 +1,25 @@
 VIB
 
-1.	Implementation of MSqRob statistical package side by side with limma 
+1. Implementation of MSqRob statistical package side by side with limma 
 a.	protein group analysis starting at peptide level (still looking for a good protein group inference software)
 b.	PTM analysis outside from MQ sites table summarization: 
 MSqRobPTM workflow (Demeulemeester et al., 2024)
 i.	PTM site level with correction for parent protein
 ii.	Proteoform level with correction for parent protein
 
-2.	Learning how to use Fragpipe (“universal data analysis tool”). Not used in routine as we were still trying to use alternatives (in house search engine/data analysis workflows (e.g. for DDA SAGE+MS2Rescore)) 
+2. Learning how to use Fragpipe (“universal data analysis tool”). Not used in routine as we were still trying to use alternatives (in house search engine/data analysis workflows (e.g. for DDA SAGE+MS2Rescore)) 
 
-3.	Evaluation/implementation of new data analysis pipelines
+3. Evaluation/implementation of new data analysis pipelines
 a.	DIA applied to interaction proteomics (e.g. AP-MS) and PTM analysis.  
-b.	Peptide mapping
-i.	Identification of all peptides from a purified protein digested with 3 enzymes
-1.	Biopharma Finder (Thermo), rather than classic search engine analysis against full proteome. 
-c.	Immunopeptidomics and single cell
-i.	Closely following what is being developed in the center’s research labs
+b.	Peptide mapping (i) Identification of all peptides from a purified protein digested with 3 enzymes
+   Biopharma Finder (Thermo), rather than classic search engine analysis against full proteome. 
+c.	Immunopeptidomics and single cell (i) Closely following what is being developed in the center’s research labs
 
-4.	QSample set up
+4. QSample set up
 a.	Currently working on a VM (QSample webserver + atlas data analysis pipeline)
 
-5.	Trying to prepare for computational hurdles associated with new Mass Specs and large scale studies (e.g. clinical, single cell, spatial)
-a.	Testing on computer clusters (university, institute)
-i.	Purchased new server (1TB RAM,192 CPUs (4x 48-Core processor))
+5. Trying to prepare for computational hurdles associated with new Mass Specs and large scale studies (e.g. clinical, single cell, spatial)
+a.	Testing on computer clusters (university, institute) (i) Purchased new server (1TB RAM,192 CPUs (4x 48-Core processor))
 
 
  DKFZ
