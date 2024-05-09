@@ -25,6 +25,7 @@ Dates: from 2025-05-08 to 2024-05-10<br>
 * R code snippets / news:
   * koinar [#3392](https://github.com/Bioconductor/Contributions/issues/3392)
   * [https://bioconductor.org/packages/rawDiag/](https://bioconductor.org/packages/rawDiag/) version 1.0.0 with shiny module
+  * application: [fgczmsqc](https://shiny-ms.fgcz.uzh.ch/fgczmsqc-dashboard/) dashboard
 * update compMSI @fgcz
 * [bfabricPy](https://github.com/fgcz/bfabricPy)
 * http://ib2024.ch
