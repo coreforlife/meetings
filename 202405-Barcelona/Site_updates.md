@@ -45,5 +45,7 @@ IMP
     + ground truth data sets
 - universal function for PTM TMT + proteome results processing
 - archiving data to azure cold storage
+
 discussed: coautroship policy
+
 up next: chimerys workflow for service, integration of ardia server for chimerys searches and QC
