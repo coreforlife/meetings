@@ -25,4 +25,9 @@ a.	Testing on computer clusters (university, institute)
 i.	Purchased new server (1TB RAM,192 CPUs (4x 48-Core processor))
 
 
- 
+ DKFZ
+
+ 1. Spectronaut settings optimization
+ 3. missRanger can replace missForest?
+ 4. AlphaPept on Linux as QC
+ 5. Optimization HYE, fade-in fade-out, thoughts for future benchmarking
