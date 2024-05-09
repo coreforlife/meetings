@@ -37,3 +37,13 @@ EMBL Heidelberg
 2. Comparison of DIA-NN with FragPipe-DIA-NN analysis (FragPipe gives lower nuber of IDs)
 3. Creation of filtered DIA-NN outputs from report files and creation of simple QC plots
 4. Comparison of different data processing steps and their influence on differential abundance analysis (batch-correction, normalization), no real effect
+
+IMP
+- expansion of excel exporter (MS2Go) for DIA (Spectronaut)
+	   using msReport python package from MPL
+- comparisons of DDA and DIA results (regulated vs regulated, fold change/significance scatter)
+    + ground truth data sets
+- universal function for PTM TMT + proteome results processing
+- archiving data to azure cold storage
+discussed: coautroship policy
+up next: chimerys workflow for service, integration of ardia server for chimerys searches and QC
