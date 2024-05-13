@@ -60,6 +60,6 @@ chambm/pwiz-skyline-i-agree-to-the-vendor-licenses wine msconvert
       --mzML --64 --zlib --filter "peakPicking vendor msLevel=1-"
 ```
 * Qsample NF workflow
-
 * proteoBench for C4L Challenge - 2nd call! - kickoff meeting 
 * alphaFold use case for proteomics (Gerhard, CP)
+* [timsconvert](https://github.com/gtluu/timsconvert) 
