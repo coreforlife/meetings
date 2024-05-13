@@ -61,4 +61,5 @@ chambm/pwiz-skyline-i-agree-to-the-vendor-licenses wine msconvert
 ```
 * Qsample NF workflow
 
-* proteoBench for C4L Challenge - 2nd call! - kickoff meeting
+* proteoBench for C4L Challenge - 2nd call! - kickoff meeting 
+* alphaFold use case for proteomics (Gerhard, CP)
