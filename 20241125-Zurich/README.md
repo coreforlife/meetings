@@ -7,8 +7,7 @@ participants: T, M, Q, W, P, C, F
 
 round table update each site:
 
-- Teresa
-- VIB
+- Teresa (VIB)
 1.	New server (since May)
 o	PowerEdge R7625 Server
 o	2 x AMD EPYC 9454 2.75GHz, 48C/96T, 256M Cache (290W) DDR5-
