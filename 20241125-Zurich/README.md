@@ -81,4 +81,5 @@ EMBL / Frank
 ![image](https://github.com/user-attachments/assets/12d52603-5151-4d42-ad81-71ba5c3fd1c5)
 
 	- prolfquapp  
+ 	- scaling up R analysis for large-scale projects
 
