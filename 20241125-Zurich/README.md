@@ -72,11 +72,11 @@ EMBL / Frank
    - How to best benchmark them and decide on which software to use and develop easy to use tools
    - FDR
   
-### Points of discussion
+### Points for discussion
 	- How to tailor analysis parameters?
 		○ FDR discussion
 			○ Mathematical- vs machine learning- FDRs on the different available software
 			
-		○ How to share report interpretability with customers: real meetings vs video/document explanations
+	- How to share report interpretability with customers? real meetings vs video/document explanations
 ![image](https://github.com/user-attachments/assets/12d52603-5151-4d42-ad81-71ba5c3fd1c5)
 
