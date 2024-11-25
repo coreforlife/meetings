@@ -80,3 +80,5 @@ EMBL / Frank
 	- How to share report interpretability with customers? real meetings vs video/document explanations
 ![image](https://github.com/user-attachments/assets/12d52603-5151-4d42-ad81-71ba5c3fd1c5)
 
+	- prolfquapp  
+
