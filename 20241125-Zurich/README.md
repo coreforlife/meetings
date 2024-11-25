@@ -40,4 +40,17 @@ o	New pipeline and webserver update since 1 month
 	Faster DIA pipeline (ca. 15-30 min): DiaNN using previously generated predicted spectral library
 	diaPASEF support (~ 50 min)
 
-- 
+
+EMBL / Frank
+- external proteomics course coming up
+- QC-plots for pLink outputs
+- tool for automated DiaNN executution (DiaNN-commandeR)
+- further development on FragPipeCommandeR
+- further integration of AI into daily life (chatGPT and github copilot)
+- Future development:
+  - interactive html outputs for customers
+  - better documentation (better explanatatory PDFs, videos guiding the user through an analysis)
+ - Discussion needed:
+   - How to deal with increasing file sizes (e.g. Astral files)
+   - How to deal with all the new software developments (new versions, DiaNN, chimerys etc.)
+   - How to best benchmark them and decide on which software to use and develop easy to use tools
