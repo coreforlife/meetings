@@ -41,6 +41,22 @@ o	New pipeline and webserver update since 1 month
 	diaPASEF support (~ 50 min)
 
 
+DKFZ / Martin
+
+• missRanger
+  does not seem to perform as good as missForest --> to speed up use missForest with less trees 100 --> 20
+• AlphaPept on Linux
+  needs adaption to work on our linux
+  rawrrs and rawDiag is ised but needs extension for TIX and base peak etc. for MSMS
+• New Software how do you test?
+• The field needs to talk about FDR
+• Additional thoughts
+  QC on individual samples via heavy standards?
+• Questions of interest:
+  - How to test new software
+  - What is the FDR closest to reality
+  - Heavy spike in pep and protiens to QC and quant
+
 EMBL / Frank
 - external proteomics course coming up
 - QC-plots for pLink outputs
