@@ -54,3 +54,4 @@ EMBL / Frank
    - How to deal with increasing file sizes (e.g. Astral files)
    - How to deal with all the new software developments (new versions, DiaNN, chimerys etc.)
    - How to best benchmark them and decide on which software to use and develop easy to use tools
+   - FDR
