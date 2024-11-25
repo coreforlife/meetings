@@ -72,7 +72,8 @@ EMBL / Frank
    - How to best benchmark them and decide on which software to use and develop easy to use tools
    - FDR
   
-### Points for discussion
+  
+## Points for discussion
 	- How to tailor analysis parameters?
 		○ FDR discussion
 			○ Mathematical- vs machine learning- FDRs on the different available software
