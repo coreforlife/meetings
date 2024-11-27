@@ -79,8 +79,13 @@ EMBL / Frank
 			○ Mathematical- vs machine learning- FDRs on the different available software
 			
 	- How to share report interpretability with customers? real meetings vs video/document explanations
-![image](https://github.com/user-attachments/assets/12d52603-5151-4d42-ad81-71ba5c3fd1c5)
+ 		direct user to chatgpt.., create documentation together, direct users to visualization tools
 
 	- prolfquapp  
  	- scaling up R analysis for large-scale projects
+              using tibble, rust-based object (polars)
+
+       - create documentation together for common analysis workflows
+
+       
 
