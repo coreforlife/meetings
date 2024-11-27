@@ -90,7 +90,11 @@ FGCZ
               using tibble, rust-based object (polars)
 
        - create documentation together for common analysis workflows
-       - 
+       
+       -results visualization options
+          check Martin's plot examples in last BArcelona meeting
+	  iSee
+   	  ExploreDE
 
        
 
