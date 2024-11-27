@@ -95,6 +95,7 @@ FGCZ
           check Martin's plot examples in last BArcelona meeting
 	  iSee
    	  ExploreDE
+          pcaExplorer
 
        
 
