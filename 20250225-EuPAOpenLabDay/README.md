@@ -1,4 +1,6 @@
-# [EuPA Open Lab Day / Data analysis](https://forms.office.com/pages/responsepage.aspx?id=3hyB1-_sbEmPkaF4YkG5nN6aImF9kF9KijkcfWWEhJtUNURTU1dNS1dRWEUwRjlBSzVYOERCQlhGOS4u&route=shorturl)
+# [EuPA Open Lab Day / Data analysis]
+
+- [Registration](https://forms.office.com/pages/responsepage.aspx?id=3hyB1-_sbEmPkaF4YkG5nN6aImF9kF9KijkcfWWEhJtUNURTU1dNS1dRWEUwRjlBSzVYOERCQlhGOS4u&route=shorturl)
 
 ## Data analysis steps
 
