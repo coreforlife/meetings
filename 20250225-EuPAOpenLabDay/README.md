@@ -11,6 +11,7 @@
 - PCA analysis
 
 ### Preprocessing / filtering
+- How to compose the FASTA file?
 - Which cut-offs (e.g. Unique Peptides, contaminants)
 
 ### Normalization
@@ -19,7 +20,7 @@
 - Quantile
 - etc.
 
-### Batch effect removal
+### Batch effect detection and removal
 - Yes or no
   
 ### Imputation
@@ -27,11 +28,18 @@
 - Missing at random vs missing at low abundance
 
 ### Differential abundance analysis
+#### Methods
+- t-test
 - Limma
 - MSqRob
 - MSstats
 - prolfqua
 - etc.
+
+#### Exploratory plots
+- Volcano
+- MA
+- p-value histogram
 
 ### Clustering analysis
 - heatmaps
