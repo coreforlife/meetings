@@ -21,10 +21,10 @@
 
 ## Software to process raw files
 ### Open-source vs Free vs commercial
-MaxQuant
-DiaNN
-FragPipe
-Biognosys (SpectroNaut, SpectroMine)
+- MaxQuant
+- DiaNN
+- FragPipe
+- Biognosys (SpectroNaut, SpectroMine)
 
 ### Benchmarking
 e.g. ProteoBench
