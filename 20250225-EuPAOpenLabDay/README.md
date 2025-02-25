@@ -4,8 +4,8 @@
 
 ## Data analysis in Core Facilities
 - FAIR principles
-- in an ideal scenario open-source, published and actively developed and professional support
-- in best case: CLI for application coupling to LIMS
+- In an ideal scenario open-source, published and actively developed and professional support
+- In best case: CLI for application coupling to LIMS
 - Input/Output delivered to reproduce on local infrastructure
 - Nice reports and comprehensive results 
 
