@@ -2,6 +2,13 @@
 
 - [Registration](https://forms.office.com/pages/responsepage.aspx?id=3hyB1-_sbEmPkaF4YkG5nN6aImF9kF9KijkcfWWEhJtUNURTU1dNS1dRWEUwRjlBSzVYOERCQlhGOS4u&route=shorturl)
 
+## Data analysis in Core Facilities
+- FAIR principles
+- in an ideal scenario open-source, published and actively developed and professional support
+- in best case: CLI for application coupling to LIMS
+- Input/Output delivered to reproduce on local infrastructure
+- Nice reports and comprehensive results 
+
 ## Data analysis steps
 
 ### QC plots
