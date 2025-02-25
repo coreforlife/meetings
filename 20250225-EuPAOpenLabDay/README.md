@@ -6,7 +6,7 @@
 
 ### QC plots
 - Mass Spec QC (LC, Analyzer etc.)
-- Peptide-based (miscleavages, modifications)
+- Peptide-based (missed cleavages, modifications)
 - Identification
 - Quantification accuracy
 - Reproducibility (e.g. CVs)
