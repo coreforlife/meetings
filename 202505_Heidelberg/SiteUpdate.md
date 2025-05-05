@@ -23,6 +23,20 @@
 - msqrob for statistical analsis
 - in the future plan some test for SAINT and compare it to msqrob and limma
 
+  Teresa raised concerns about code sustainability and discussed her work on interactive reports, while expressing interest in learning more about running scripts and potentially moving to servers for demanding tasks. The team explored the use of containerization, particularly Docker, for automation purposes. They also touched on challenges related to sparse data sets, the need for benchmarking, and the possibility of using Globus for file transfer.
+
+Next steps:
+- Teresa to explore containerization options for R scripts and statistical analysis workflows.
+- Teresa to investigate and test parameters for DIA data analysis using SAINT for BioID and AP-MS experiments.
+- Teresa to look into optimizing MS-Stats PTM analysis for better performance on large datasets.
+- Team to consider attending courses or training on containerization and Docker usage.
+- Teresa to explore the use of Frag-pipe Analyst for protein analysis and statistical workflows.
+- Team to investigate the use of Globus for file transfers between institutions.
+- Team to continue discussions on developing benchmarking strategies for proteomics software (Proteo-bench)
+
+## Sustainability and Automation of Codes
+Teresa discussed her concerns about the sustainability of their codes and the need for containerization. She also mentioned her work on interactive reports and the potential for hardware acceleration for some plots. Teresa expressed interest in learning more about running their scripts and the possibility of moving to servers for more demanding tasks. She also discussed the challenges of data sets with more sparsity and the need for benchmarking. The team also discussed the use of Docker containers for automation and the potential for using Globus for file transfer.
+
 
 
 # Things to discuss
