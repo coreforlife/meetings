@@ -34,7 +34,7 @@ Next steps:
 - Team to investigate the use of Globus for file transfers between institutions.
 - Team to continue discussions on developing benchmarking strategies for proteomics software (Proteo-bench)
 
-## Sustainability and Automation of Codes
+### Sustainability and Automation of Codes
 Teresa discussed her concerns about the sustainability of their codes and the need for containerization. She also mentioned her work on interactive reports and the potential for hardware acceleration for some plots. Teresa expressed interest in learning more about running their scripts and the possibility of moving to servers for more demanding tasks. She also discussed the challenges of data sets with more sparsity and the need for benchmarking. The team also discussed the use of Docker containers for automation and the potential for using Globus for file transfer.
 
 
