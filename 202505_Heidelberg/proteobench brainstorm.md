@@ -14,9 +14,11 @@
 
 - cv () what is reported.
 - roc curve with logfc
-- 
+
+## interesting visualizations 
 cv vs abundance 
 missingness vs abundance
+
 
 Heatmap of QC measures with possibility to assign weights to each. Ideally there should be possibility to visualize the data in few key plots.
  cvs 
