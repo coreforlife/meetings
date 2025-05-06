@@ -1,0 +1,13 @@
+# Proteobench brainstorm
+
+- Dataset: HYE on Astral
+- measures at protein level
+- # peptides / protein
+- peptide ids vs abundance (after jaccard ) 
+- abundance distribution of peptides
+- precursor intensity (average) histogram of frequency
+- precursor intensity on x and % of search analysis that got it (per raw file)
+- histogram of intensities (color per analysis) (venn for each bin)
+
+- how much each software digs in the noise
+- noise on and off (limit of detection)
