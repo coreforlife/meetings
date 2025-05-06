@@ -11,3 +11,11 @@
 
 - how much each software digs in the noise
 - noise on and off (limit of detection)
+
+- cv () what is reported.
+- roc curve with logfc
+- 
+cv vs 
+
+
+Heatmap of QC measures with possibility to assign weights to each. Ideally there should be possibility to visualize the data in few key plots.
